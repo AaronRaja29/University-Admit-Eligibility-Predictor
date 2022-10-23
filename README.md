@@ -8,7 +8,7 @@
  <h3>IBM-Project-24193-1659939294</h3>  
     
     
-> Your success will be determined by the manner in which you use the tools you have been given to work with.  
+> How you employ the resources you have been given will decide your level of success.  
 <br>
   
 
@@ -23,10 +23,10 @@
 <br>
 <h2>📃 Abstract:</h2><i>
 <ul>
-<li>Students are often worried about their chances of admission to University. </li>
-<li>The aim of this project is to help students in shortlisting universities with their profiles. </li>
-<li>The predicted output gives them a fair idea about their admission chances to a particular university. </li>
-<li>This analysis should also help students who are currently preparing or will be preparing to get a better idea. </li>
+<li>Concerns about getting into college are common among students. </li>
+<li>This project's goal is to assist students in narrowing down institutions based on their profiles. </li>
+<li>The anticipated results offer them a good indication of their prospects of admission to a particular university.</li>
+<li>This analysis ought to provide better insight for students who are or will be preparing for exams. </li>
   </i>
   </ul>
 <br>
